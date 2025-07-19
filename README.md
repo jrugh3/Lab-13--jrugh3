@@ -1,18 +1,18 @@
-# Lab 13 – CPSC 121L
+# Lab exercise 13 objectives
+1. Practice applying RAII and writing destructors.
+2. Practice applying inheritance.
 
-This project was created as part of CPSC 121L (Introduction to Programming in C++) at Cal State Fullerton.
 
-## Description
+# Instructions
+Answer the programming problems sequentially (i.e., answer prob01 before prob02). 
+If you have questions let your instructor or the lab assistant know. You can also consult your classmates.
 
-- Demonstrates object-oriented programming principles using C++
-- Covers file I/O, classes, loops, and functions
-- Final lab project for the Fall 2022 semester
+To get started on problem 1, change into the `prob01` directory. If you haven't already, change into the lab02 directory:
+```
+cd lab13-<YOUR_USERNAME>
+```
 
-## Technologies Used
-
-- C++
-- Visual Studio / Command Line
-
-## Author
-
-[Josh Rugh](https://github.com/jrugh3)
+Then change into the prob01 folder and view the README for its instructions:
+```
+cd prob01
+```
